@@ -1,0 +1,147 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+main {
+  height:100vw;
+  width: 100%;
+  background-color: rgb(148, 191, 248);
+
+
+}
+nav{
+    background-color: blue;
+    color:white;
+    width:100%;
+    height:3vw;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:2rem;
+    
+}
+
+#review{
+    background-color:white;
+    color:blue;
+    padding:0.8rem 1rem;
+    border-radius:1rem;
+    width:7vw;
+    font-size:1.1rem;
+    font-weight:400;
+    border:3px solid rgb(148, 191, 248);
+}
+.section1{
+    background-color: blue;
+    color:white;
+    padding:1rem;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    gap:3rem;
+    width:30%;
+ margin:auto;
+ margin-top:8%;
+ height:20%;
+ border:6px solid white;
+}
+input{
+    height:3vw;
+    width:60%;
+    border-radius:10px;
+     font-size:1.2rem;
+     padding:0rem 1rem;
+  
+}
+
+form{
+    display:flex;
+    justify-content: center;
+    gap:1rem;
+    flex-direction: column;
+    
+}
+.whole{
+       display:flex;
+    gap:1rem;
+}
+
+select{
+border-radius:1rem;
+
+}
+.parent{
+       background-color:white;
+    
+    padding:1rem;
+    display:flex;
+    flex-direction: column;
+    
+    gap:3rem;
+    width:50%;
+ margin:auto;
+ margin-top:8%;
+ height:30%;
+ border:6px solid blue;
+}
+
+
+#btnn{
+  display:flex;
+  gap:2rem;
+  padding:1rem;
+  
+
+}
+.h1{
+  color:blue;
+  font-size:2rem;
+  padding:1rem;
+}
+
+
+.btn1{
+  color:blue;
+  background-color:yellow;
+   padding:0.5rem;
+   border-radius:1rem;
+   font-size:1.2rem;
+   border:3px solid blue;
+}
+
+.btn2{
+  color:blue;
+  background-color:greenyellow;
+   padding:0.5rem;
+      border-radius:1rem;
+         font-size:1.2rem;
+            border:3px solid blue;
+}
+
+.btn3{
+  color:blue;
+  background-color:red;
+  padding:0.5rem;
+     border-radius:1rem;
+        font-size:1.2rem;
+           border:3px solid blue;
+}
+.heading2{
+  color:blue;
+  text-align: center;
+  padding: 1rem;
+}
+
+.html{
+  height:15%;
+  background-color:peru;
+  display:flex;
+  justify-content:space-between;
+  
+}
