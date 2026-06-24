@@ -137,24 +137,19 @@ border-radius:1rem;
   background-color:peru;
   display:flex;
   justify-content:space-between;}
-.same {
-  background-color: blue;
-  color: white;
-  padding: 1rem;
-  margin: 1rem;
-}
 
-i {
-  font-size: 2rem;
+.same{
+  background-color:blue;
+  color:white;
+  padding:1rem;
+  margin:1rem;}
+i{
+  font-size:2rem;
 }
-
-.browser {
-  padding: 1rem;
-}
-
-.sameall {
-  padding: 2rem;
-}
+.browser{
+  padding:1rem;}
+.sameall{
+  padding:2rem;}
 
   
 
