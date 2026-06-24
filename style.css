@@ -12,8 +12,6 @@ main {
   height:100vw;
   width: 100%;
   background-color: rgb(148, 191, 248);
-
-
 }
 nav{
     background-color: blue;
@@ -23,10 +21,8 @@ nav{
     display:flex;
     justify-content: space-between;
     align-items: center;
-    padding:2rem;
-    
+    padding:2rem;   
 }
-
 #review{
     background-color:white;
     color:blue;
@@ -59,7 +55,6 @@ input{
      padding:0rem 1rem;
   
 }
-
 form{
     display:flex;
     justify-content: center;
